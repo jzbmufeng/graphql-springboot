@@ -1,0 +1,7 @@
+
+graphiql:
+  enabled: true
+
+
+server:
+  port: 8080

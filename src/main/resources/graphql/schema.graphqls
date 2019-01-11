@@ -1,0 +1,14 @@
+
+type Author {
+    id: Int
+    name: String
+    age: Int
+}
+
+type Book {
+    id: Int
+    name: String
+    author: Author
+    publisher: String
+}
+
